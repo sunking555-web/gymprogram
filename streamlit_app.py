@@ -29,7 +29,7 @@ workout_data = {
 
 st.set_page_config(page_title="My Workout Planner", layout="centered")
 
-st.title("💪 Gym Session Selector")
+st.title("💪 Gym")
 
 # Sidebar for selections
 with st.sidebar:
