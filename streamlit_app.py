@@ -3,7 +3,7 @@ import streamlit as st
 # Your specific workout structure
 workout_data = {
     "Warmup (2 min)": ["Skipping Rope"],
-    "Explosiveness (3 rounds)": ["Gym ball Squat jumps (3x5)", "Ball Slam Variations (3x5)", "Punching Bag (30 sec)"],
+    "Explosiveness (3 rounds)": ["Gym Ball Jumps (3x5)", "Ball Slam Variations (3x5)", "Punching Bag (30 sec)"],
     "Mobility (5 min)": ["Kettlebell Halos (2x10)", "Deep Squats (2x10)", "Dead Hang (2x60s)"],
     "Strength A": {
         "CHEST": ["Bench Press", "Incline Bench Press", "Weighted Dip"],
